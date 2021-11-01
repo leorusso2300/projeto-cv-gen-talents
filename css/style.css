@@ -1,0 +1,67 @@
+.detalhe{
+    position: absolute;
+    top: 50px;
+}
+.nome{
+    position: absolute;
+    top: 50px;
+    left: 33%;
+}
+.funcao{
+    position: absolute;
+    top: 15%;
+    left: 33%;
+}
+.laranja{
+    position: absolute;
+    background-color:#e36f68;
+    height: 100px;
+    width: 30px;
+    left: 398px;   
+}
+.traco{
+    background-color: #e36f68;
+    height: 5px;
+    width: 100%;
+}
+.redes{
+    position: absolute;
+    top: 160px; 
+    left: 373px;
+}
+.localizacao{
+    position: absolute;
+    top: 160px; 
+    left: 52%;
+}
+section{
+    border-style: solid;
+    border-width: 4px;
+    border-left: none;
+    border-color: #e36f68;
+}
+.segunda{
+    position: absolute;
+    top: 296px;
+    left: 49%;
+}
+.teste{
+    display: inline-block;
+}
+.sobremim{
+    position: relative;
+    top: 4px;  
+    left: 11px; 
+}
+.educacao{
+    position: relative;
+    top: 9px;
+    left: 9px; 
+
+}
+.experiencia{
+    position: relative;
+    top: 5px;
+    left: 11px; 
+
+}
