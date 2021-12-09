@@ -65,3 +65,37 @@ section{
     left: 11px; 
 
 }
+.sla{
+    position: relative;
+    top: -500px;
+}
+.habitec{
+    border-right: none;
+
+}
+.habicomp{
+    border-top: none;
+    border-right: none;
+    position: relative;
+    top: -82px;
+}
+.sla{
+    position: relative;
+    border-top: none;
+    border-right: none;
+    top: -220px;
+    left: 500px;
+}
+.port{
+    position: relative;
+    top: -110px;
+    border-bottom: none;
+    border-right: none;
+}
+.idio{
+    border-right: none;
+    position: relative;
+    top: 100px;
+    right: 12px;
+
+}
