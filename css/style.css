@@ -69,10 +69,6 @@ section{
     position: relative;
     top: -500px;
 }
-.habitec{
-    border-right: none;
-
-}
 .habicomp{
     border-top: none;
     border-right: none;
@@ -98,4 +94,17 @@ section{
     top: 100px;
     right: 12px;
 
+}
+.habitec{
+    position: relative;
+    top: 8px;  
+    left: 11px;
+}
+.habitecsec{
+    border-right: none;
+}
+.habicomp2{
+    position: relative;
+    top: 8px;  
+    left: 11px;
 }
