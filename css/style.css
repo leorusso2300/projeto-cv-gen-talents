@@ -91,13 +91,13 @@ section{
 .idio{
     border-right: none;
     position: relative;
-    top: 100px;
+    top: 74px;
     right: 12px;
 
 }
 .habitec{
     position: relative;
-    top: 8px;  
+    top: 1px;  
     left: 11px;
 }
 .habitecsec{
@@ -107,4 +107,23 @@ section{
     position: relative;
     top: 8px;  
     left: 11px;
+}
+.port2{
+    position: relative;
+    top: 4px;  
+}
+.idiomas{
+    position: relative;
+    top: 4px; 
+    left: 11px;
+
+}
+.dioma{
+    position: relative;
+    top: 15px; 
+}
+.quali{
+    position: relative;
+    top: -46px; 
+    left: 150px;
 }
